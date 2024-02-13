@@ -1,0 +1,92 @@
+Player,No.,Flag,Pos,Age,Ht,Wt,S/C,Exp,Birth Date,Summary,Salary,Draft,Player-additional
+Ben Chiarot,8,ca,D,32,3-Jun,224,L/-,10,May 9 1991,3 G 9 A 12 P,"$5,250,000 ",2009 ATL 4th (120),chiarbe01
+J.T. Compher,37,us,F,28,Jun-00,190,R/-,7,April 8 1995,11 G 18 A 29 P,"$5,500,000 ",2013 BUF 2nd (35),comphj.01
+Andrew Copp,18,us,F,29,1-Jun,203,L/-,9,July 8 1994,10 G 14 A 24 P,"$6,250,000 ",2013 WPG 4th (104),coppan01
+Alex DeBrincat,93,us,F,26,8-May,180,R/-,6,December 18 1997,18 G 25 A 43 P,"$8,250,000 ",2016 CHI 2nd (39),debrial01
+Robby Fabbri,14,ca,F,28,1-Jun,185,L/-,7,January 22 1996,13 G 8 A 21 P,"$4,250,000 ",2014 STL 1st (21),fabbrro01
+Christian Fischer,36,us,F,26,2-Jun,212,R/-,7,April 15 1997,2 G 8 A 10 P,"$1,125,000 ",2015 ARI 2nd (32),fischch01
+Shayne Gostisbehere,41,us,D,30,11-May,183,L/-,9,April 20 1993,7 G 25 A 32 P,"$4,125,000 ",2012 PHI 3rd (78),gostish01
+Justin Holl,3,us,D,32,4-Jun,194,R/-,6,January 30 1992,0 G 5 A 5 P,"$3,400,000 ",2010 CHI 2nd (54),hollju01
+Ville Husso,35,fi,G,28,3-Jun,205,-/L,3,February 6 1995,9-5-2 3.53 GAA,"$4,750,000 ",2014 STL 4th (94),hussovi01
+Patrick Kane,88,us,F,35,10-May,177,L/-,16,November 19 1988,7 G 10 A 17 P,"$2,750,000 ",2007 CHI 1st (1),kanepa01
+Klim Kostin,24,ru,F,24,4-Jun,232,L/-,4,May 5 1999,3 G 1 A 4 P,"$1,800,000 ",2017 STL 1st (31),kostikl01
+Dylan Larkin (C),71,us,F,27,1-Jun,199,L/-,8,July 30 1996,23 G 24 A 47 P,"$10,000,000 ",2014 DET 1st (15),larkidy01
+Alex Lyon,34,us,G,31,1-Jun,196,-/L,6,December 9 1992,14-6-2 2.54 GAA,"$900,000 ",,lyonal01
+Olli Maatta,2,fi,D,29,2-Jun,207,L/-,10,August 22 1994,2 G 10 A 12 P,"$3,000,000 ",2012 PIT 1st (22),maattol01
+David Perron,57,ca,F,35,Jun-00,195,R/-,16,May 28 1988,10 G 14 A 24 P,"$5,150,000 ",2007 STL 1st (26),perroda01
+Jeff Petry,46,us,D,36,3-Jun,208,R/-,13,December 9 1987,2 G 13 A 15 P,"$1,687,500 ",2006 EDM 2nd (45),petryje01
+Michael Rasmussen,27,ca,F,24,6-Jun,220,L/-,4,April 17 1999,11 G 12 A 23 P,"$1,900,000 ",2017 DET 1st (9),rasmumi01
+Lucas Raymond,23,se,F,21,11-May,188,R/-,2,March 28 2002,14 G 28 A 42 P,"$832,500 ",2020 DET 1st (4),raymolu01
+James Reimer,47,ca,G,35,2-Jun,200,-/L,13,March 15 1988,4-6-2 3.22 GAA,"$1,500,000 ",2006 TOR 4th (99),reimeja01
+Moritz Seider,53,de,D,22,3-Jun,205,R/-,2,April 6 2001,6 G 20 A 26 P,"$832,500 ",2019 DET 1st (6),seidemo01
+Daniel Sprong,17,nl,F,26,Jun-00,195,R/-,7,March 17 1997,14 G 19 A 33 P,"$2,000,000 ",2015 PIT 2nd (46),spronda01
+Joe Veleno,90,ca,F,24,1-Jun,201,L/-,3,January 13 2000,9 G 12 A 21 P,,2018 DET 1st (30),velenjo01
+Jake Walman,96,ca,D,27,1-Jun,218,L/-,4,February 20 1996,11 G 9 A 20 P,"$3,500,000 ",2014 STL 3rd (82),walmaja01
+Jesper Boqvist,70,se,F,25,1-Jun,184,L/-,4,October 30 1998,1 G 2 A 3 P,"$775,000 ",2017 NJD 2nd (36),boqvije01
+Brandon Carlo,25,us,D,27,6-Jun,218,R/-,7,November 26 1996,3 G 10 A 13 P,"$4,700,000 ",2015 BOS 2nd (37),carlobr01
+Charlie Coyle,13,us,F,31,3-Jun,223,R/-,11,March 2 1992,18 G 27 A 45 P,"$4,500,000 ",2010 SJS 1st (28),coylech01
+Jake DeBrusk,74,ca,F,27,Jun-00,197,L/-,6,October 17 1996,12 G 13 A 25 P,"$4,000,000 ",2015 BOS 1st (14),debruja01
+Derek Forbort,28,us,D,31,4-Jun,208,L/-,8,March 4 1992,0 G 4 A 4 P,"$3,500,000 ",2010 LAK 1st (15),forbode01
+Trent Frederic,11,us,F,25,3-Jun,214,L/-,5,February 11 1998,14 G 15 A 29 P,"$2,050,000 ",2016 BOS 1st (29),fredetr01
+Morgan Geekie,39,ca,F,25,3-Jun,200,R/-,4,July 20 1998,9 G 15 A 24 P,"$2,000,000 ",2017 CAR 3rd (67),geekimo01
+Matt Grzelcyk,48,us,D,30,10-May,176,L/-,7,January 5 1994,2 G 5 A 7 P,"$4,250,000 ",2012 BOS 3rd (85),grzelma01
+Danton Heinen,43,ca,F,28,2-Jun,195,L/-,7,July 5 1995,10 G 9 A 19 P,"$775,000 ",2014 BOS 4th (116),heineda01
+Jakub Lauko,94,cz,F,23,Jun-00,196,L/-,1,March 28 2000,2 G 4 A 6 P,"$775,000 ",2018 BOS 3rd (77),laukoja01
+Hampus Lindholm,27,se,D,30,4-Jun,215,L/-,10,January 20 1994,1 G 18 A 19 P,"$6,000,000 ",2012 ANA 1st (6),lindhha01
+Brad Marchand (C),63,ca,F,35,9-May,176,L/-,14,May 11 1988,25 G 23 A 48 P,"$3,000,000 ",2006 BOS 3rd (71),marchbr03
+Charlie McAvoy,73,us,D,26,1-Jun,209,R/-,6,December 21 1997,7 G 26 A 33 P,"$7,750,000 ",2016 BOS 1st (14),mcavoch01
+David Pastrnak,88,cz,F,27,1-Jun,195,R/-,9,May 25 1996,33 G 42 A 75 P,"$8,500,000 ",2014 BOS 1st (25),pastrda01
+Matthew Poitras,51,ca,F,19,11-May,180,R/-,R,March 10 2004,5 G 10 A 15 P,"$775,000 ",2022 BOS 2nd (54),poitrma01
+Anthony Richard,90,ca,F,27,10-May,185,L/-,3,December 20 1996,0 G 0 A 0 P,"$775,000 ",2015 NSH 4th (100),richaan01
+Kevin Shattenkirk,12,us,D,35,Jun-00,212,R/-,13,January 29 1989,5 G 8 A 13 P,"$1,050,000 ",2007 COL 1st (14),shattke01
+Oskar Steen,62,se,F,25,9-May,199,R/-,3,March 9 1998,1 G 0 A 1 P,"$800,000 ",2016 BOS 6th (165),steenos01
+Jeremy Swayman,1,us,G,25,2-Jun,194,-/L,3,November 24 1998,16-5-7 2.35 GAA,"$3,475,000 ",2017 BOS 4th (111),swaymje01
+Linus Ullmark,35,se,G,30,5-Jun,212,-/L,8,July 31 1993,16-6-2 2.67 GAA,"$5,000,000 ",2012 BUF 6th (163),ullmali01
+James van Riemsdyk,21,us,F,34,3-Jun,208,L/-,14,May 4 1989,8 G 25 A 33 P,"$1,000,000 ",2007 PHI 1st (2),vanrija01
+Parker Wotherspoon,29,ca,D,26,1-Jun,190,L/-,1,August 24 1997,0 G 3 A 3 P,"$775,000 ",2015 NYI 4th (112),wothepa01
+Pavel Zacha,18,cz,F,26,4-Jun,199,L/-,8,April 6 1997,12 G 21 A 33 P,"$5,750,000 ",2015 NJD 1st (6),zachapa01
+Cam Atkinson,89,us,F,34,8-May,176,R/-,11,June 5 1989,13 G 15 A 28 P,"$5,275,000 ",2008 CBJ 6th (157),atkinca01
+Noah Cates,27,us,F,24,2-Jun,194,L/-,2,February 5 1999,2 G 5 A 7 P,"$2,625,000 ",2017 PHI 5th (137),catesno01
+Sean Couturier,14,us,F,31,3-Jun,211,L/-,11,December 7 1992,11 G 21 A 32 P,"$4,000,000 ",2011 PHI 1st (8),coutuse01
+Nicolas Deslauriers,44,ca,F,32,1-Jun,220,L/-,10,February 22 1991,0 G 3 A 3 P,"$2,000,000 ",2009 LAK 3rd (84),deslani01
+Jamie Drysdale,9,ca,D,21,11-May,183,R/-,3,April 8 2002,1 G 2 A 3 P,"$2,300,000 ",2020 ANA 1st (6),drysdja01
+Samuel Ersson,33,se,G,24,3-Jun,196,-/L,1,October 20 1999,14-9-3 2.47 GAA,"$800,000 ",2018 PHI 5th (143),erssosa01
+Joel Farabee,86,us,F,23,Jun-00,183,L/-,4,February 25 2000,17 G 24 A 41 P,"$2,250,000 ",2018 PHI 1st (14),farabjo01
+Tyson Foerster,71,ca,F,22,2-Jun,203,R/-,1,January 18 2002,10 G 11 A 21 P,"$832,500 ",2020 PHI 1st (23),foersty01
+Morgan Frost,48,ca,F,24,Jun-00,193,L/-,4,May 14 1999,8 G 17 A 25 P,"$1,450,000 ",2017 PHI 1st (27),frostmo01
+Garnet Hathaway,19,us,F,32,3-Jun,208,R/-,8,November 23 1991,4 G 3 A 7 P,"$1,700,000 ",,hathaga01
+Travis Konecny,11,ca,F,26,10-May,192,R/-,7,March 11 1997,24 G 22 A 46 P,"$6,000,000 ",2015 PHI 1st (24),konectr01
+Scott Laughton,21,ca,F,29,1-Jun,190,L/-,10,May 30 1994,6 G 15 A 21 P,"$3,625,000 ",2012 PHI 1st (20),laughsc01
+Olle Lycksell,62,se,F,24,10-May,163,L/-,1,August 24 1999,0 G 1 A 1 P,"$775,000 ",2017 PHI 6th (168),lycksol01
+Cal Petersen,40,us,G,29,2-Jun,185,-/R,5,October 19 1994,2-1-0 3.00 GAA,,2013 BUF 5th (129),peterca01
+Ryan Poehling,25,us,F,25,2-Jun,196,L/-,4,January 3 1999,7 G 10 A 17 P,"$1,400,000 ",2017 MTL 1st (25),poehlry01
+Rasmus Ristolainen,55,fi,D,29,4-Jun,221,R/-,10,October 27 1994,1 G 3 A 4 P,"$5,500,000 ",2013 BUF 1st (8),ristora01
+Travis Sanheim,6,ca,D,27,4-Jun,222,L/-,6,March 29 1996,4 G 24 A 28 P,"$5,125,000 ",2014 PHI 1st (17),sanhetr01
+Nick Seeler,24,us,D,30,2-Jun,201,L/-,5,June 3 1993,0 G 8 A 8 P,"$800,000 ",2011 MIN 5th (131),seeleni01
+Marc Staal,18,ca,D,37,4-Jun,208,L/-,16,January 13 1987,1 G 1 A 2 P,"$1,100,000 ",2005 NYR 1st (12),staalma01
+Owen Tippett,74,ca,F,24,1-Jun,207,R/-,4,February 16 1999,18 G 13 A 31 P,"$1,750,000 ",2017 FLA 1st (10),tippeow01
+Sean Walker,26,ca,D,29,11-May,195,R/-,5,November 13 1994,5 G 14 A 19 P,"$3,350,000 ",,walkese01
+Cam York,8,us,D,23,Jun-00,194,L/-,3,January 5 2001,6 G 12 A 18 P,,2019 PHI 1st (14),yorkca01
+Egor Zamula,5,ru,D,23,5-Jun,185,L/-,3,March 30 2000,5 G 10 A 15 P,"$775,000 ",,zamulye01
+Alex Barre-Boulet,12,ca,F,26,10-May,180,L/-,3,May 21 1997,6 G 3 A 9 P,"$775,000 ",,barreal01
+Erik Cernak,81,sk,D,26,4-Jun,224,R/-,5,May 28 1997,0 G 6 A 6 P,"$1,260,000 ",2015 LAK 2nd (43),cernaer01
+Mitchell Chaffee,41,us,F,26,1-Jun,201,R/-,1,January 26 1998,1 G 1 A 2 P,"$775,000 ",,chaffmi01
+Anthony Cirelli,71,ca,F,26,Jun-00,189,L/-,6,July 15 1997,11 G 17 A 28 P,"$1,625,000 ",2015 TBL 3rd (72),cirelan01
+Calvin de Haan,44,ca,D,32,1-Jun,195,L/-,11,May 9 1991,3 G 4 A 7 P,"$775,000 ",2009 NYI 1st (12),dehaaca01
+Michael Eyssimont,23,us,F,27,Jun-00,201,L/-,2,September 9 1996,8 G 7 A 15 P,"$800,000 ",2016 LAK 5th (142),eyssimi01
+Haydn Fleury,7,ca,D,27,4-Jun,208,L/-,6,July 8 1996,1 G 3 A 4 P,"$775,000 ",2014 CAR 1st (7),fleurha01
+Luke Glendening,11,us,F,34,11-May,190,R/-,10,April 28 1989,8 G 1 A 9 P,"$800,000 ",,glendlu01
+Brandon Hagel,38,ca,F,25,2-Jun,179,L/-,4,August 27 1998,19 G 29 A 48 P,"$2,050,000 ",2016 BUF 6th (159),hagelbr01
+Victor Hedman,77,se,D,33,7-Jun,244,L/-,14,December 18 1990,9 G 43 A 52 P,"$5,000,000 ",2009 TBL 1st (2),hedmavi01
+Jonas Johansson,31,se,G,28,5-Jun,220,-/L,4,September 19 1995,10-7-5 3.46 GAA,"$775,000 ",2014 BUF 3rd (61),johanjo03
+Nikita Kucherov,86,ru,F,30,11-May,181,L/-,9,June 17 1993,33 G 56 A 89 P,"$5,000,000 ",2011 TBL 2nd (58),kucheni01
+Emil Martinsen Lilleberg,78,no,D,22,2-Jun,192,L/-,R,February 2 2001,0 G 2 A 2 P,"$775,000 ",2021 ARI 4th (107),martiem01
+Tyler Motte,64,us,F,28,10-May,192,L/-,7,March 10 1995,4 G 2 A 6 P,"$800,000 ",2013 CHI 4th (121),mottety01
+Nicholas Paul,20,ca,F,28,3-Jun,223,L/-,8,March 20 1995,14 G 15 A 29 P,,2013 DAL 4th (101),paulni01
+Nick Perbix,48,us,D,25,2-Jun,191,R/-,1,June 15 1998,1 G 16 A 17 P,,2017 TBL 6th (169),perbini01
+Brayden Point,21,ca,F,27,11-May,180,R/-,7,March 13 1996,25 G 29 A 54 P,"$5,000,000 ",2014 TBL 3rd (79),pointbr01
+Darren Raddysh,43,ca,D,27,1-Jun,200,R/-,2,February 28 1996,4 G 16 A 20 P,"$775,000 ",,raddyda01
+Conor Sheary,73,us,F,31,9-May,179,L/-,8,June 8 1992,1 G 8 A 9 P,"$1,500,000 ",,shearco01
+Steven Stamkos (C),91,ca,F,33,Jun-00,182,R/-,15,February 7 1990,22 G 26 A 48 P,"$1,000,000 ",2008 TBL 1st (1),stamkst01
+Andrei Vasilevskiy,88,ru,G,29,4-Jun,220,-/L,9,July 25 1994,17-11-0 2.79 GAA,"$4,000,000 ",2012 TBL 1st (19),vasilan02
+Austin Watson,51,us,F,32,4-Jun,204,R/-,9,January 13 1992,2 G 1 A 3 P,"$776,665 ",2010 NSH 1st (18),watsoau01
